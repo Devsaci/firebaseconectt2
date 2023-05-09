@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987903205073",
+    "project_id": "fir-conectt2",
+    "storage_bucket": "fir-conectt2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987903205073:android:9d30d1e5f246106b946ff0",
+        "android_client_info": {
+          "package_name": "com.devsaci.firebaseconectt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987903205073-e0o5lh269ugu0q56hp614tsou10jhffh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYnJw7O3uLb6RfpqX78Re0XI7AvwSzrD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987903205073-e0o5lh269ugu0q56hp614tsou10jhffh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
